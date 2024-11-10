@@ -1,0 +1,577 @@
+Country,Year,Indicator,Value
+Albania,1990,Population,3286542.0
+Albania,2000,Population,3089027.0
+Albania,2010,Population,2913021.0
+Albania,2020,Population,2837849.0
+Albania,1990,Life Expectancy,73.14
+Albania,2000,Life Expectancy,75.4
+Albania,2010,Life Expectancy,77.94
+Albania,2020,Life Expectancy,76.99
+Albania,1990,GDP,20285.54
+Albania,2000,GDP,34803.55
+Albania,2010,GDP,119269.27
+Albania,2020,GDP,151627.34
+Andorra,1990,Population,53569.0
+Andorra,2000,Population,66097.0
+Andorra,2010,Population,71519.0
+Andorra,2020,Population,77700.0
+Andorra,1990,Life Expectancy,
+Andorra,2000,Life Expectancy,
+Andorra,2010,Life Expectancy,
+Andorra,2020,Life Expectancy,82.5
+Andorra,1990,GDP,10289.9
+Andorra,2000,GDP,14326.06
+Andorra,2010,GDP,34499.26
+Andorra,2020,GDP,28910.01
+Armenia,1990,Population,3556539.0
+Armenia,2000,Population,3168523.0
+Armenia,2010,Population,2946293.0
+Armenia,2020,Population,2805608.0
+Armenia,1990,Life Expectancy,68.82
+Armenia,2000,Life Expectancy,70.62
+Armenia,2010,Life Expectancy,73.16
+Armenia,2020,Life Expectancy,72.17
+Armenia,1990,GDP,22568.63
+Armenia,2000,GDP,19115.64
+Armenia,2010,GDP,92602.86
+Armenia,2020,GDP,126416.99
+Austria,1990,Population,7677850.0
+Austria,2000,Population,8011566.0
+Austria,2010,Population,8363404.0
+Austria,2020,Population,8916864.0
+Austria,1990,Life Expectancy,75.57
+Austria,2000,Life Expectancy,78.13
+Austria,2010,Life Expectancy,80.58
+Austria,2020,Life Expectancy,81.19
+Austria,1990,GDP,1664633.86
+Austria,2000,GDP,1972896.25
+Austria,2010,GDP,3922751.07
+Austria,2020,GDP,4350493.17
+Azerbaijan,1990,Population,7175200.0
+Azerbaijan,2000,Population,8048600.0
+Azerbaijan,2010,Population,9054332.0
+Azerbaijan,2020,Population,10093121.0
+Azerbaijan,1990,Life Expectancy,62.35
+Azerbaijan,2000,Life Expectancy,64.89
+Azerbaijan,2010,Life Expectancy,69.53
+Azerbaijan,2020,Life Expectancy,66.87
+Azerbaijan,1990,GDP,88848.48
+Azerbaijan,2000,GDP,52726.16
+Azerbaijan,2010,GDP,529092.95
+Azerbaijan,2020,GDP,426930.0
+Belarus,1990,Population,10189348.0
+Belarus,2000,Population,9979610.0
+Belarus,2010,Population,9483836.0
+Belarus,2020,Population,9379952.0
+Belarus,1990,Life Expectancy,70.84
+Belarus,2000,Life Expectancy,68.91
+Belarus,2010,Life Expectancy,70.4
+Belarus,2020,Life Expectancy,72.46
+Belarus,1990,GDP,
+Belarus,2000,GDP,127367.8
+Belarus,2010,GDP,572319.05
+Belarus,2020,GDP,613717.55
+Belgium,1990,Population,9967379.0
+Belgium,2000,Population,10251250.0
+Belgium,2010,Population,10895586.0
+Belgium,2020,Population,11538604.0
+Belgium,1990,Life Expectancy,76.05
+Belgium,2000,Life Expectancy,77.72
+Belgium,2010,Life Expectancy,80.18
+Belgium,2020,Life Expectancy,80.7
+Belgium,1990,GDP,2053317.48
+Belgium,2000,GDP,2367924.6
+Belgium,2010,GDP,4814208.83
+Belgium,2020,GDP,5260215.13
+Bosnia and Herzegovina,1990,Population,4494310.0
+Bosnia and Herzegovina,2000,Population,4179350.0
+Bosnia and Herzegovina,2010,Population,3811088.0
+Bosnia and Herzegovina,2020,Population,3318407.0
+Bosnia and Herzegovina,1990,Life Expectancy,72.35
+Bosnia and Herzegovina,2000,Life Expectancy,74.5
+Bosnia and Herzegovina,2010,Life Expectancy,77.07
+Bosnia and Herzegovina,2020,Life Expectancy,76.22
+Bosnia and Herzegovina,1990,GDP,77534.78
+Bosnia and Herzegovina,2000,GDP,55677.73
+Bosnia and Herzegovina,2010,GDP,171763.16
+Bosnia and Herzegovina,2020,GDP,202260.37
+Bulgaria,1990,Population,8718289.0
+Bulgaria,2000,Population,8170172.0
+Bulgaria,2010,Population,7395599.0
+Bulgaria,2020,Population,6934015.0
+Bulgaria,1990,Life Expectancy,71.64
+Bulgaria,2000,Life Expectancy,71.66
+Bulgaria,2010,Life Expectancy,73.51
+Bulgaria,2020,Life Expectancy,73.66
+Bulgaria,1990,GDP,206320.91
+Bulgaria,2000,GDP,132459.9
+Bulgaria,2010,GDP,507609.29
+Bulgaria,2020,GDP,703687.58
+Croatia,1990,Population,4777368.0
+Croatia,2000,Population,4468302.0
+Croatia,2010,Population,4295427.0
+Croatia,2020,Population,4047680.0
+Croatia,1990,Life Expectancy,72.17
+Croatia,2000,Life Expectancy,72.81
+Croatia,2010,Life Expectancy,76.48
+Croatia,2020,Life Expectancy,77.72
+Croatia,1990,GDP,256502.13
+Croatia,2000,GDP,221284.15
+Croatia,2010,GDP,588364.06
+Croatia,2020,GDP,582213.01
+Cyprus,1990,Population,788500.0
+Cyprus,2000,Population,948237.0
+Cyprus,2010,Population,1129686.0
+Cyprus,2020,Population,1237537.0
+Cyprus,1990,Life Expectancy,73.54
+Cyprus,2000,Life Expectancy,76.57
+Cyprus,2010,Life Expectancy,79.67
+Cyprus,2020,Life Expectancy,81.39
+Cyprus,1990,GDP,55911.3
+Cyprus,2000,GDP,99858.44
+Cyprus,2010,GDP,257999.4
+Cyprus,2020,GDP,252271.9
+Czech Republic,1990,Population,10333355.0
+Czech Republic,2000,Population,10255063.0
+Czech Republic,2010,Population,10474410.0
+Czech Republic,2020,Population,10697858.0
+Czech Republic,1990,Life Expectancy,71.38
+Czech Republic,2000,Life Expectancy,74.97
+Czech Republic,2010,Life Expectancy,77.42
+Czech Republic,2020,Life Expectancy,78.18
+Czech Republic,1990,GDP,407289.51
+Czech Republic,2000,GDP,618281.66
+Czech Republic,2010,GDP,2090699.41
+Czech Republic,2020,GDP,2459745.59
+Denmark,1990,Population,5140939.0
+Denmark,2000,Population,5339616.0
+Denmark,2010,Population,5547683.0
+Denmark,2020,Population,5831404.0
+Denmark,1990,Life Expectancy,74.81
+Denmark,2000,Life Expectancy,76.59
+Denmark,2010,Life Expectancy,79.1
+Denmark,2020,Life Expectancy,81.6
+Denmark,1990,GDP,1382472.86
+Denmark,2000,GDP,1641587.39
+Denmark,2010,GDP,3219952.79
+Denmark,2020,GDP,3547627.48
+Estonia,1990,Population,1569174.0
+Estonia,2000,Population,1396985.0
+Estonia,2010,Population,1331475.0
+Estonia,2020,Population,1329522.0
+Estonia,1990,Life Expectancy,69.48
+Estonia,2000,Life Expectancy,70.42
+Estonia,2010,Life Expectancy,75.43
+Estonia,2020,Life Expectancy,78.6
+Estonia,1990,GDP,
+Estonia,2000,GDP,56865.8
+Estonia,2010,GDP,195234.77
+Estonia,2020,GDP,313304.2
+Finland,1990,Population,4986431.0
+Finland,2000,Population,5176209.0
+Finland,2010,Population,5363352.0
+Finland,2020,Population,5529543.0
+Finland,1990,Life Expectancy,74.81
+Finland,2000,Life Expectancy,77.47
+Finland,2010,Life Expectancy,79.87
+Finland,2020,Life Expectancy,81.93
+Finland,1990,GDP,1414383.46
+Finland,2000,GDP,1260195.43
+Finland,2010,GDP,2494243.11
+Finland,2020,GDP,2718860.77
+France,1990,Population,58044701.0
+France,2000,Population,60921384.0
+France,2010,Population,65030575.0
+France,2020,Population,67571107.0
+France,1990,Life Expectancy,76.6
+France,2000,Life Expectancy,79.06
+France,2010,Life Expectancy,81.66
+France,2020,Life Expectancy,82.18
+France,1990,GDP,12691796.17
+France,2000,GDP,13656396.61
+France,2010,GDP,26451878.82
+France,2020,GDP,26474186.92
+Georgia,1990,Population,4802000.0
+Georgia,2000,Population,4077131.0
+Georgia,2010,Population,3786695.0
+Georgia,2020,Population,3722716.0
+Georgia,1990,Life Expectancy,68.39
+Georgia,2000,Life Expectancy,69.58
+Georgia,2010,Life Expectancy,72.13
+Georgia,2020,Life Expectancy,72.76
+Georgia,1990,GDP,75000.0
+Georgia,2000,GDP,30574.75
+Georgia,2010,GDP,124269.08
+Georgia,2020,GDP,160108.69
+Germany,1990,Population,79433029.0
+Germany,2000,Population,82211508.0
+Germany,2010,Population,81776930.0
+Germany,2020,Population,83160871.0
+Germany,1990,Life Expectancy,75.09
+Germany,2000,Life Expectancy,77.93
+Germany,2010,Life Expectancy,79.99
+Germany,2020,Life Expectancy,81.04
+Germany,1990,GDP,17716712.07
+Germany,2000,GDP,19479819.91
+Germany,2010,GDP,33996678.2
+Germany,2020,GDP,38877271.62
+Greece,1990,Population,10196792.0
+Greece,2000,Population,10805808.0
+Greece,2010,Population,11121341.0
+Greece,2020,Population,10698599.0
+Greece,1990,Life Expectancy,76.94
+Greece,2000,Life Expectancy,77.89
+Greece,2010,Life Expectancy,80.39
+Greece,2020,Life Expectancy,81.29
+Greece,1990,GDP,978910.92
+Greece,2000,GDP,1304577.57
+Greece,2010,GDP,2971249.62
+Greece,2020,GDP,1884803.37
+Hungary,1990,Population,10373988.0
+Hungary,2000,Population,10210971.0
+Hungary,2010,Population,10000023.0
+Hungary,2020,Population,9750149.0
+Hungary,1990,Life Expectancy,69.32
+Hungary,2000,Life Expectancy,71.25
+Hungary,2010,Life Expectancy,74.21
+Hungary,2020,Life Expectancy,75.57
+Hungary,1990,GDP,343658.92
+Hungary,2000,GDP,472184.06
+Hungary,2010,GDP,1321753.5
+Hungary,2020,GDP,1572889.56
+Iceland,1990,Population,254826.0
+Iceland,2000,Population,281205.0
+Iceland,2010,Population,318041.0
+Iceland,2020,Population,366463.0
+Iceland,1990,Life Expectancy,78.04
+Iceland,2000,Life Expectancy,79.65
+Iceland,2010,Life Expectancy,81.9
+Iceland,2020,Life Expectancy,83.06
+Iceland,1990,GDP,64687.36
+Iceland,2000,GDP,90256.6
+Iceland,2010,GDP,137511.62
+Iceland,2020,GDP,216299.53
+Ireland,1990,Population,3513974.0
+Ireland,2000,Population,3805174.0
+Ireland,2010,Population,4560155.0
+Ireland,2020,Population,4985382.0
+Ireland,1990,Life Expectancy,74.85
+Ireland,2000,Life Expectancy,76.54
+Ireland,2010,Life Expectancy,80.74
+Ireland,2020,Life Expectancy,82.56
+Ireland,1990,GDP,493056.32
+Ireland,2000,GDP,1002076.1
+Ireland,2010,GDP,2219135.61
+Ireland,2020,GDP,4286086.88
+Italy,1990,Population,56719240.0
+Italy,2000,Population,56942108.0
+Italy,2010,Population,59277417.0
+Italy,2020,Population,59438851.0
+Italy,1990,Life Expectancy,76.97
+Italy,2000,Life Expectancy,79.78
+Italy,2010,Life Expectancy,82.04
+Italy,2020,Life Expectancy,82.2
+Italy,1990,GDP,11812226.54
+Italy,2000,GDP,11466768.94
+Italy,2010,GDP,21360999.55
+Italy,2020,GDP,18974616.36
+Latvia,1990,Population,2663151.0
+Latvia,2000,Population,2367550.0
+Latvia,2010,Population,2097555.0
+Latvia,2020,Population,1900449.0
+Latvia,1990,Life Expectancy,69.27
+Latvia,2000,Life Expectancy,70.31
+Latvia,2010,Life Expectancy,73.48
+Latvia,2020,Life Expectancy,75.19
+Latvia,1990,GDP,
+Latvia,2000,GDP,79588.53
+Latvia,2010,GDP,239561.63
+Latvia,2020,GDP,343909.1
+Liechtenstein,1990,Population,28765.0
+Liechtenstein,2000,Population,33026.0
+Liechtenstein,2010,Population,35926.0
+Liechtenstein,2020,Population,38756.0
+Liechtenstein,1990,Life Expectancy,
+Liechtenstein,2000,Life Expectancy,76.83
+Liechtenstein,2010,Life Expectancy,81.84
+Liechtenstein,2020,Life Expectancy,81.66
+Liechtenstein,1990,GDP,14215.09
+Liechtenstein,2000,GDP,24838.9
+Liechtenstein,2010,GDP,50823.37
+Liechtenstein,2020,GDP,64058.7
+Lithuania,1990,Population,3697838.0
+Lithuania,2000,Population,3499536.0
+Lithuania,2010,Population,3097282.0
+Lithuania,2020,Population,2794885.0
+Lithuania,1990,Life Expectancy,71.16
+Lithuania,2000,Life Expectancy,72.02
+Lithuania,2010,Life Expectancy,73.27
+Lithuania,2020,Life Expectancy,74.98
+Lithuania,1990,GDP,
+Lithuania,2000,GDP,115247.77
+Lithuania,2010,GDP,371286.94
+Lithuania,2020,GDP,569649.43
+Luxembourg,1990,Population,381850.0
+Luxembourg,2000,Population,436300.0
+Luxembourg,2010,Population,506953.0
+Luxembourg,2020,Population,630419.0
+Luxembourg,1990,Life Expectancy,75.44
+Luxembourg,2000,Life Expectancy,77.87
+Luxembourg,2010,Life Expectancy,80.63
+Luxembourg,2020,Life Expectancy,82.14
+Luxembourg,1990,GDP,127787.93
+Luxembourg,2000,GDP,212301.83
+Luxembourg,2010,GDP,562139.86
+Luxembourg,2020,GDP,736993.67
+Malta,1990,Population,354170.0
+Malta,2000,Population,390087.0
+Malta,2010,Population,414508.0
+Malta,2020,Population,515332.0
+Malta,1990,Life Expectancy,75.88
+Malta,2000,Life Expectancy,78.35
+Malta,2010,Life Expectancy,81.4
+Malta,2020,Life Expectancy,82.35
+Malta,1990,GDP,25471.64
+Malta,2000,GDP,40695.16
+Malta,2010,GDP,90358.24
+Malta,2020,GDP,152499.99
+Moldova,1990,Population,2965978.0
+Moldova,2000,Population,2924668.0
+Moldova,2010,Population,2862354.0
+Moldova,2020,Population,2635130.0
+Moldova,1990,Life Expectancy,68.07
+Moldova,2000,Life Expectancy,66.42
+Moldova,2010,Life Expectancy,69.36
+Moldova,2020,Life Expectancy,70.17
+Moldova,1990,GDP,35712.5
+Moldova,2000,GDP,12884.29
+Moldova,2010,GDP,69749.82
+Moldova,2020,GDP,115307.46
+Monaco,1990,Population,30329.0
+Monaco,2000,Population,32465.0
+Monaco,2010,Population,33178.0
+Monaco,2020,Population,36922.0
+Monaco,1990,Life Expectancy,
+Monaco,2000,Life Expectancy,
+Monaco,2010,Life Expectancy,
+Monaco,2020,Life Expectancy,86.09
+Monaco,1990,GDP,24813.07
+Monaco,2000,GDP,26544.63
+Monaco,2010,GDP,53675.62
+Monaco,2020,GDP,67396.45
+Montenegro,1990,Population,606372.0
+Montenegro,2000,Population,604950.0
+Montenegro,2010,Population,619428.0
+Montenegro,2020,Population,621306.0
+Montenegro,1990,Life Expectancy,75.57
+Montenegro,2000,Life Expectancy,73.82
+Montenegro,2010,Life Expectancy,75.99
+Montenegro,2020,Life Expectancy,75.93
+Montenegro,1990,GDP,
+Montenegro,2000,GDP,9842.93
+Montenegro,2010,GDP,41429.84
+Montenegro,2020,GDP,47699.97
+Netherlands,1990,Population,14951510.0
+Netherlands,2000,Population,15925513.0
+Netherlands,2010,Population,16615394.0
+Netherlands,2020,Population,17441500.0
+Netherlands,1990,Life Expectancy,76.88
+Netherlands,2000,Life Expectancy,77.99
+Netherlands,2010,Life Expectancy,80.7
+Netherlands,2020,Life Expectancy,81.36
+Netherlands,1990,GDP,3183305.12
+Netherlands,2000,GDP,4174793.37
+Netherlands,2010,GDP,8473808.59
+Netherlands,2020,GDP,9097934.67
+North Macedonia,1990,Population,2044174.0
+North Macedonia,2000,Population,2026350.0
+North Macedonia,2010,Population,1946298.0
+North Macedonia,2020,Population,1856124.0
+North Macedonia,1990,Life Expectancy,71.23
+North Macedonia,2000,Life Expectancy,72.95
+North Macedonia,2010,Life Expectancy,75.0
+North Macedonia,2020,Life Expectancy,74.4
+North Macedonia,1990,GDP,46996.47
+North Macedonia,2000,GDP,37728.59
+North Macedonia,2010,GDP,94071.7
+North Macedonia,2020,GDP,123610.37
+Norway,1990,Population,4241473.0
+Norway,2000,Population,4490967.0
+Norway,2010,Population,4889252.0
+Norway,2020,Population,5379475.0
+Norway,1990,Life Expectancy,76.54
+Norway,2000,Life Expectancy,78.63
+Norway,2010,Life Expectancy,81.0
+Norway,2020,Life Expectancy,83.21
+Norway,1990,GDP,1197918.43
+Norway,2000,GDP,1714572.02
+Norway,2010,GDP,4310521.44
+Norway,2020,GDP,3676334.19
+Poland,1990,Population,38110782.0
+Poland,2000,Population,38258629.0
+Poland,2010,Population,38042794.0
+Poland,2020,Population,37899070.0
+Poland,1990,Life Expectancy,70.89
+Poland,2000,Life Expectancy,73.75
+Poland,2010,Life Expectancy,76.25
+Poland,2020,Life Expectancy,76.5
+Poland,1990,GDP,659777.48
+Poland,2000,GDP,1722204.52
+Poland,2010,GDP,4756966.14
+Poland,2020,GDP,5994427.32
+Portugal,1990,Population,9983218.0
+Portugal,2000,Population,10289898.0
+Portugal,2010,Population,10573100.0
+Portugal,2020,Population,10297081.0
+Portugal,1990,Life Expectancy,73.97
+Portugal,2000,Life Expectancy,76.31
+Portugal,2010,Life Expectancy,79.03
+Portugal,2020,Life Expectancy,80.98
+Portugal,1990,GDP,787138.6
+Portugal,2000,GDP,1186051.93
+Portugal,2010,GDP,2381130.03
+Portugal,2020,GDP,2290318.61
+Romania,1990,Population,23201835.0
+Romania,2000,Population,22442971.0
+Romania,2010,Population,20246871.0
+Romania,2020,Population,19265250.0
+Romania,1990,Life Expectancy,69.74
+Romania,2000,Life Expectancy,71.16
+Romania,2010,Life Expectancy,73.46
+Romania,2020,Life Expectancy,74.25
+Romania,1990,GDP,382478.82
+Romania,2000,GDP,372537.4
+Romania,2010,GDP,1700293.59
+Romania,2020,GDP,2513625.14
+Russia,1990,Population,147969406.0
+Russia,2000,Population,146596869.0
+Russia,2010,Population,142849468.0
+Russia,2020,Population,145245148.0
+Russia,1990,Life Expectancy,68.89
+Russia,2000,Life Expectancy,65.48
+Russia,2010,Life Expectancy,68.84
+Russia,2020,Life Expectancy,71.34
+Russia,1990,GDP,5170144.46
+Russia,2000,GDP,2597101.42
+Russia,2010,GDP,15249167.15
+Russia,2020,GDP,14930758.94
+San Marino,1990,Population,23132.0
+San Marino,2000,Population,26823.0
+San Marino,2010,Population,31608.0
+San Marino,2020,Population,34007.0
+San Marino,1990,Life Expectancy,
+San Marino,2000,Life Expectancy,
+San Marino,2010,Life Expectancy,
+San Marino,2020,Life Expectancy,82.65
+San Marino,1990,GDP,
+San Marino,2000,GDP,10051.59
+San Marino,2010,GDP,18811.92
+San Marino,2020,GDP,15412.48
+Serbia,1990,Population,7586000.0
+Serbia,2000,Population,7516346.0
+Serbia,2010,Population,7291436.0
+Serbia,2020,Population,6899126.0
+Serbia,1990,Life Expectancy,70.23
+Serbia,2000,Life Expectancy,71.58
+Serbia,2010,Life Expectancy,74.34
+Serbia,2020,Life Expectancy,74.48
+Serbia,1990,GDP,
+Serbia,2000,GDP,68758.46
+Serbia,2010,GDP,418194.69
+Serbia,2020,GDP,533564.85
+Slovakia,1990,Population,5299187.0
+Slovakia,2000,Population,5388720.0
+Slovakia,2010,Population,5391428.0
+Slovakia,2020,Population,5458827.0
+Slovakia,1990,Life Expectancy,70.93
+Slovakia,2000,Life Expectancy,73.05
+Slovakia,2010,Life Expectancy,75.11
+Slovakia,2020,Life Expectancy,76.87
+Slovakia,1990,GDP,127473.81
+Slovakia,2000,GDP,292425.59
+Slovakia,2010,GDP,911628.36
+Slovakia,2020,GDP,1067378.69
+Slovenia,1990,Population,1998161.0
+Slovenia,2000,Population,1988925.0
+Slovenia,2010,Population,2048583.0
+Slovenia,2020,Population,2102419.0
+Slovenia,1990,Life Expectancy,73.2
+Slovenia,2000,Life Expectancy,75.41
+Slovenia,2010,Life Expectancy,79.42
+Slovenia,2020,Life Expectancy,80.53
+Slovenia,1990,GDP,198179.23
+Slovenia,2000,GDP,202896.28
+Slovenia,2010,GDP,482082.4
+Slovenia,2020,GDP,537345.27
+Spain,1990,Population,38867322.0
+Spain,2000,Population,40567864.0
+Spain,2010,Population,46576897.0
+Spain,2020,Population,47365655.0
+Spain,1990,Life Expectancy,76.84
+Spain,2000,Life Expectancy,78.97
+Spain,2010,Life Expectancy,81.63
+Spain,2020,Life Expectancy,82.33
+Spain,1990,GDP,5365585.91
+Spain,2000,GDP,5983633.13
+Spain,2010,GDP,14221082.0
+Spain,2020,GDP,12781288.68
+Sweden,1990,Population,8558835.0
+Sweden,2000,Population,8872109.0
+Sweden,2010,Population,9378126.0
+Sweden,2020,Population,10353442.0
+Sweden,1990,Life Expectancy,77.54
+Sweden,2000,Life Expectancy,79.64
+Sweden,2010,Life Expectancy,81.45
+Sweden,2020,Life Expectancy,82.36
+Sweden,1990,GDP,2618461.94
+Sweden,2000,GDP,2628354.54
+Sweden,2010,GDP,4958125.59
+Sweden,2020,GDP,5470541.74
+Switzerland,1990,Population,6715519.0
+Switzerland,2000,Population,7184250.0
+Switzerland,2010,Population,7824909.0
+Switzerland,2020,Population,8638167.0
+Switzerland,1990,Life Expectancy,77.24
+Switzerland,2000,Life Expectancy,79.68
+Switzerland,2010,Life Expectancy,82.25
+Switzerland,2020,Life Expectancy,83.0
+Switzerland,1990,GDP,2657635.74
+Switzerland,2000,GDP,2792160.34
+Switzerland,2010,GDP,5988510.29
+Switzerland,2020,GDP,7419994.06
+Turkey,1990,Population,54324142.0
+Turkey,2000,Population,64113547.0
+Turkey,2010,Population,73142150.0
+Turkey,2020,Population,83384680.0
+Turkey,1990,Life Expectancy,67.71
+Turkey,2000,Life Expectancy,71.86
+Turkey,2010,Life Expectancy,75.07
+Turkey,2020,Life Expectancy,75.85
+Turkey,1990,GDP,1506555.0
+Turkey,2000,GDP,2742946.23
+Turkey,2010,GDP,7769672.66
+Turkey,2020,GDP,7203384.98
+Ukraine,1990,Population,51891400.0
+Ukraine,2000,Population,49176500.0
+Ukraine,2010,Population,45870741.0
+Ukraine,2020,Population,44207754.0
+Ukraine,1990,Life Expectancy,70.1
+Ukraine,2000,Life Expectancy,67.68
+Ukraine,2010,Life Expectancy,70.27
+Ukraine,2020,Life Expectancy,71.19
+Ukraine,1990,GDP,795238.1
+Ukraine,2000,GDP,323750.84
+Ukraine,2010,GDP,1412091.7
+Ukraine,2020,GDP,1566177.22
+United Kingdom,1990,Population,57247586.0
+United Kingdom,2000,Population,58892514.0
+United Kingdom,2010,Population,62766365.0
+United Kingdom,2020,Population,67081234.0
+United Kingdom,1990,Life Expectancy,75.88
+United Kingdom,2000,Life Expectancy,77.74
+United Kingdom,2010,Life Expectancy,80.4
+United Kingdom,2020,Life Expectancy,80.35
+United Kingdom,1990,GDP,10931693.89
+United Kingdom,2000,GDP,16655348.77
+United Kingdom,2010,GDP,24854825.96
+United Kingdom,2020,GDP,26978065.92
