@@ -1,7 +1,7 @@
 Date,Home Team,Away Team,HT Goals,AT Goals,HT Points,AT Points
 11/08/2023,Almeria,Vallecano,0,2,0,3
 11/08/2023,Sevilla,Valencia,1,2,0,3
-12/08/2023,Sociedad,Girona,1,1,1,1
+12/08/2023,Real Sociedad,Girona,1,1,1,1
 12/08/2023,Las Palmas,Mallorca,1,1,1,1
 12/08/2023,Ath. Bilbao,Real Madrid,0,2,0,3
 13/08/2023,Celta,Osasuna,0,2,0,3
@@ -11,7 +11,7 @@ Date,Home Team,Away Team,HT Goals,AT Goals,HT Points,AT Points
 14/08/2023,Atl. Madrid,Granada,3,1,3,0
 18/08/2023,Mallorca,Villarreal,0,1,0,3
 18/08/2023,Valencia,Las Palmas,1,0,3,0
-19/08/2023,Sociedad,Celta,1,1,1,1
+19/08/2023,Real Sociedad,Celta,1,1,1,1
 19/08/2023,Almeria,Real Madrid,1,3,0,3
 19/08/2023,Osasuna,Ath. Bilbao,0,2,0,3
 20/08/2023,Girona,Getafe,3,0,3,0
@@ -19,7 +19,7 @@ Date,Home Team,Away Team,HT Goals,AT Goals,HT Points,AT Points
 20/08/2023,Betis,Atl. Madrid,0,0,1,1
 21/08/2023,Alaves,Sevilla,4,3,3,0
 21/08/2023,Granada,Vallecano,0,2,0,3
-25/08/2023,Las Palmas,Sociedad,0,0,1,1
+25/08/2023,Las Palmas,Real Sociedad,0,0,1,1
 25/08/2023,Celta,Real Madrid,0,1,0,3
 26/08/2023,Cadiz,Almeria,1,1,1,1
 26/08/2023,Granada,Mallorca,3,2,3,0
@@ -31,7 +31,7 @@ Date,Home Team,Away Team,HT Goals,AT Goals,HT Points,AT Points
 28/08/2023,Vallecano,Atl. Madrid,0,7,0,3
 01/09/2023,Cadiz,Villarreal,3,1,3,0
 01/09/2023,Almeria,Celta,2,3,0,3
-02/09/2023,Sociedad,Granada,5,3,3,0
+02/09/2023,Real Sociedad,Granada,5,3,3,0
 02/09/2023,Real Madrid,Getafe,2,1,3,0
 02/09/2023,Alaves,Valencia,1,0,3,0
 02/09/2023,Betis,Vallecano,1,0,3,0
@@ -46,14 +46,14 @@ Date,Home Team,Away Team,HT Goals,AT Goals,HT Points,AT Points
 17/09/2023,Getafe,Osasuna,3,2,3,0
 17/09/2023,Villarreal,Almeria,2,1,3,0
 17/09/2023,Sevilla,Las Palmas,1,0,3,0
-17/09/2023,Real Madrid,Sociedad,2,1,3,0
+17/09/2023,Real Madrid,Real Sociedad,2,1,3,0
 18/09/2023,Granada,Girona,2,4,0,3
 22/09/2023,Alaves,Ath. Bilbao,0,2,0,3
 23/09/2023,Girona,Mallorca,5,3,3,0
 23/09/2023,Osasuna,Sevilla,0,0,1,1
 23/09/2023,Barcelona,Celta,3,2,3,0
 23/09/2023,Almeria,Valencia,2,2,1,1
-24/09/2023,Sociedad,Getafe,4,3,3,0
+24/09/2023,Real Sociedad,Getafe,4,3,3,0
 24/09/2023,Vallecano,Villarreal,1,1,1,1
 24/09/2023,Betis,Cadiz,1,1,1,1
 24/09/2023,Las Palmas,Granada,1,0,3,0
@@ -64,7 +64,7 @@ Date,Home Team,Away Team,HT Goals,AT Goals,HT Points,AT Points
 27/09/2023,Real Madrid,Las Palmas,2,0,3,0
 27/09/2023,Villarreal,Girona,1,2,0,3
 27/09/2023,Cadiz,Vallecano,0,0,1,1
-27/09/2023,Valencia,Sociedad,0,1,0,3
+27/09/2023,Valencia,Real Sociedad,0,1,0,3
 28/09/2023,Celta,Alaves,1,1,1,1
 28/09/2023,Granada,Betis,1,1,1,1
 28/09/2023,Osasuna,Atl. Madrid,0,2,0,3
@@ -72,7 +72,7 @@ Date,Home Team,Away Team,HT Goals,AT Goals,HT Points,AT Points
 30/09/2023,Getafe,Villarreal,0,0,1,1
 30/09/2023,Vallecano,Mallorca,2,2,1,1
 30/09/2023,Girona,Real Madrid,0,3,0,3
-30/09/2023,Sociedad,Ath. Bilbao,3,0,3,0
+30/09/2023,Real Sociedad,Ath. Bilbao,3,0,3,0
 01/10/2023,Almeria,Granada,3,3,1,1
 01/10/2023,Alaves,Osasuna,0,2,0,3
 01/10/2023,Atl. Madrid,Cadiz,3,2,3,0
@@ -84,12 +84,12 @@ Date,Home Team,Away Team,HT Goals,AT Goals,HT Points,AT Points
 07/10/2023,Mallorca,Valencia,1,1,1,1
 07/10/2023,Sevilla,Vallecano,2,2,1,1
 08/10/2023,Villarreal,Las Palmas,1,2,0,3
-08/10/2023,Atl. Madrid,Sociedad,2,1,3,0
+08/10/2023,Atl. Madrid,Real Sociedad,2,1,3,0
 08/10/2023,Alaves,Betis,1,1,1,1
 08/10/2023,Celta,Getafe,2,2,1,1
 08/10/2023,Granada,Barcelona,2,2,1,1
 20/10/2023,Osasuna,Granada,2,0,3,0
-21/10/2023,Sociedad,Mallorca,1,0,3,0
+21/10/2023,Real Sociedad,Mallorca,1,0,3,0
 21/10/2023,Getafe,Betis,1,1,1,1
 21/10/2023,Sevilla,Real Madrid,1,1,1,1
 21/10/2023,Celta,Atl. Madrid,0,3,0,3
@@ -104,7 +104,7 @@ Date,Home Team,Away Team,HT Goals,AT Goals,HT Points,AT Points
 28/10/2023,Mallorca,Getafe,0,0,1,1
 28/10/2023,Cadiz,Sevilla,2,2,1,1
 29/10/2023,Betis,Osasuna,2,1,3,0
-29/10/2023,Vallecano,Sociedad,2,2,1,1
+29/10/2023,Vallecano,Real Sociedad,2,2,1,1
 29/10/2023,Ath. Bilbao,Valencia,2,2,1,1
 29/10/2023,Atl. Madrid,Alaves,2,1,3,0
 30/10/2023,Granada,Villarreal,2,3,0,3
@@ -112,7 +112,7 @@ Date,Home Team,Away Team,HT Goals,AT Goals,HT Points,AT Points
 04/11/2023,Osasuna,Girona,2,4,0,3
 04/11/2023,Betis,Mallorca,2,0,3,0
 04/11/2023,Celta,Sevilla,1,1,1,1
-04/11/2023,Sociedad,Barcelona,0,1,0,3
+04/11/2023,Real Sociedad,Barcelona,0,1,0,3
 05/11/2023,Alaves,Almeria,1,0,3,0
 05/11/2023,Valencia,Granada,1,0,3,0
 05/11/2023,Villarreal,Ath. Bilbao,2,3,0,3
@@ -120,7 +120,7 @@ Date,Home Team,Away Team,HT Goals,AT Goals,HT Points,AT Points
 06/11/2023,Getafe,Cadiz,1,0,3,0
 10/11/2023,Ath. Bilbao,Celta,4,3,3,0
 11/11/2023,Vallecano,Girona,1,2,0,3
-11/11/2023,Almeria,Sociedad,1,3,0,3
+11/11/2023,Almeria,Real Sociedad,1,3,0,3
 11/11/2023,Granada,Getafe,1,1,1,1
 11/11/2023,Osasuna,Las Palmas,1,1,1,1
 11/11/2023,Real Madrid,Valencia,5,1,3,0
@@ -133,7 +133,7 @@ Date,Home Team,Away Team,HT Goals,AT Goals,HT Points,AT Points
 25/11/2023,Getafe,Almeria,2,1,3,0
 25/11/2023,Atl. Madrid,Mallorca,1,0,3,0
 26/11/2023,Villarreal,Osasuna,3,1,3,0
-26/11/2023,Sociedad,Sevilla,2,1,3,0
+26/11/2023,Real Sociedad,Sevilla,2,1,3,0
 26/11/2023,Cadiz,Real Madrid,0,3,0,3
 26/11/2023,Betis,Las Palmas,1,0,3,0
 27/11/2023,Girona,Ath. Bilbao,1,1,1,1
@@ -142,7 +142,7 @@ Date,Home Team,Away Team,HT Goals,AT Goals,HT Points,AT Points
 02/12/2023,Girona,Valencia,2,1,3,0
 02/12/2023,Ath. Bilbao,Vallecano,4,0,3,0
 02/12/2023,Real Madrid,Granada,2,0,3,0
-02/12/2023,Osasuna,Sociedad,1,1,1,1
+02/12/2023,Osasuna,Real Sociedad,1,1,1,1
 03/12/2023,Mallorca,Alaves,0,0,1,1
 03/12/2023,Almeria,Betis,0,0,1,1
 03/12/2023,Sevilla,Villarreal,1,1,1,1
@@ -151,7 +151,7 @@ Date,Home Team,Away Team,HT Goals,AT Goals,HT Points,AT Points
 08/12/2023,Getafe,Valencia,1,0,3,0
 09/12/2023,Alaves,Las Palmas,0,1,0,3
 09/12/2023,Betis,Real Madrid,1,1,1,1
-09/12/2023,Villarreal,Sociedad,0,3,0,3
+09/12/2023,Villarreal,Real Sociedad,0,3,0,3
 09/12/2023,Mallorca,Sevilla,1,0,3,0
 10/12/2023,Atl. Madrid,Almeria,2,1,3,0
 10/12/2023,Cadiz,Osasuna,1,1,1,1
@@ -164,7 +164,7 @@ Date,Home Team,Away Team,HT Goals,AT Goals,HT Points,AT Points
 16/12/2023,Sevilla,Getafe,0,3,0,3
 16/12/2023,Valencia,Barcelona,1,1,1,1
 17/12/2023,Almeria,Mallorca,0,0,1,1
-17/12/2023,Sociedad,Betis,0,0,1,1
+17/12/2023,Real Sociedad,Betis,0,0,1,1
 17/12/2023,Las Palmas,Cadiz,1,1,1,1
 17/12/2023,Real Madrid,Villarreal,4,1,3,0
 18/12/2023,Girona,Alaves,3,0,3,0
@@ -175,12 +175,12 @@ Date,Home Team,Away Team,HT Goals,AT Goals,HT Points,AT Points
 20/12/2023,Ath. Bilbao,Las Palmas,1,0,3,0
 20/12/2023,Villarreal,Celta,3,2,3,0
 21/12/2023,Betis,Girona,1,1,1,1
-21/12/2023,Cadiz,Sociedad,0,0,1,1
+21/12/2023,Cadiz,Real Sociedad,0,0,1,1
 21/12/2023,Alaves,Real Madrid,0,1,0,3
 21/12/2023,Mallorca,Osasuna,3,2,3,0
 23/12/2023,Atl. Madrid,Sevilla,1,0,3,0
 02/01/2024,Getafe,Vallecano,0,2,0,3
-02/01/2024,Sociedad,Alaves,1,1,1,1
+02/01/2024,Real Sociedad,Alaves,1,1,1,1
 02/01/2024,Valencia,Villarreal,3,1,3,0
 03/01/2024,Granada,Cadiz,2,0,3,0
 03/01/2024,Celta,Betis,2,1,3,0
@@ -192,7 +192,7 @@ Date,Home Team,Away Team,HT Goals,AT Goals,HT Points,AT Points
 12/01/2024,Sevilla,Alaves,2,3,0,3
 13/01/2024,Las Palmas,Villarreal,3,0,3,0
 13/01/2024,Mallorca,Celta,1,1,1,1
-13/01/2024,Ath. Bilbao,Sociedad,2,1,3,0
+13/01/2024,Ath. Bilbao,Real Sociedad,2,1,3,0
 13/01/2024,Betis,Granada,1,0,3,0
 14/01/2024,Almeria,Girona,0,0,1,1
 14/01/2024,Cadiz,Valencia,1,4,0,3
@@ -200,14 +200,14 @@ Date,Home Team,Away Team,HT Goals,AT Goals,HT Points,AT Points
 20/01/2024,Vallecano,Las Palmas,0,2,0,3
 20/01/2024,Villarreal,Mallorca,1,1,1,1
 20/01/2024,Valencia,Ath. Bilbao,1,0,3,0
-20/01/2024,Celta,Sociedad,0,1,0,3
+20/01/2024,Celta,Real Sociedad,0,1,0,3
 21/01/2024,Osasuna,Getafe,3,2,3,0
 21/01/2024,Real Madrid,Almeria,3,2,3,0
 21/01/2024,Betis,Barcelona,2,4,0,3
 21/01/2024,Girona,Sevilla,5,1,3,0
 22/01/2024,Granada,Atl. Madrid,0,1,0,3
 26/01/2024,Almeria,Alaves,0,3,0,3
-27/01/2024,Sociedad,Vallecano,0,0,1,1
+27/01/2024,Real Sociedad,Vallecano,0,0,1,1
 27/01/2024,Las Palmas,Real Madrid,1,2,0,3
 27/01/2024,Barcelona,Villarreal,3,5,0,3
 27/01/2024,Mallorca,Betis,0,1,0,3
@@ -223,7 +223,7 @@ Date,Home Team,Away Team,HT Goals,AT Goals,HT Points,AT Points
 03/02/2024,Valencia,Almeria,2,1,3,0
 03/02/2024,Granada,Las Palmas,1,1,1,1
 03/02/2024,Alaves,Barcelona,1,3,0,3
-03/02/2024,Girona,Sociedad,0,0,1,1
+03/02/2024,Girona,Real Sociedad,0,0,1,1
 04/02/2024,Villarreal,Cadiz,0,0,1,1
 04/02/2024,Osasuna,Celta,0,3,0,3
 04/02/2024,Betis,Getafe,1,1,1,1
@@ -231,7 +231,7 @@ Date,Home Team,Away Team,HT Goals,AT Goals,HT Points,AT Points
 05/02/2024,Vallecano,Sevilla,1,2,0,3
 09/02/2024,Cadiz,Betis,0,2,0,3
 10/02/2024,Alaves,Villarreal,1,1,1,1
-10/02/2024,Sociedad,Osasuna,0,1,0,3
+10/02/2024,Real Sociedad,Osasuna,0,1,0,3
 10/02/2024,Real Madrid,Girona,4,0,3,0
 10/02/2024,Las Palmas,Valencia,2,0,3,0
 11/02/2024,Getafe,Celta,3,2,3,0
@@ -246,10 +246,10 @@ Date,Home Team,Away Team,HT Goals,AT Goals,HT Points,AT Points
 17/02/2024,Valencia,Sevilla,0,0,1,1
 18/02/2024,Vallecano,Real Madrid,1,1,1,1
 18/02/2024,Granada,Almeria,1,1,1,1
-18/02/2024,Mallorca,Sociedad,1,2,0,3
+18/02/2024,Mallorca,Real Sociedad,1,2,0,3
 18/02/2024,Betis,Alaves,0,0,1,1
 19/02/2024,Ath. Bilbao,Girona,3,2,3,0
-23/02/2024,Sociedad,Villarreal,1,3,0,3
+23/02/2024,Real Sociedad,Villarreal,1,3,0,3
 24/02/2024,Barcelona,Getafe,4,0,3,0
 24/02/2024,Alaves,Mallorca,1,1,1,1
 24/02/2024,Almeria,Atl. Madrid,2,2,1,1
@@ -259,7 +259,7 @@ Date,Home Team,Away Team,HT Goals,AT Goals,HT Points,AT Points
 25/02/2024,Real Madrid,Sevilla,1,0,3,0
 26/02/2024,Girona,Vallecano,3,0,3,0
 01/03/2024,Celta,Almeria,1,0,3,0
-02/03/2024,Sevilla,Sociedad,3,2,3,0
+02/03/2024,Sevilla,Real Sociedad,3,2,3,0
 02/03/2024,Vallecano,Cadiz,1,1,1,1
 02/03/2024,Getafe,Las Palmas,3,3,1,1
 02/03/2024,Valencia,Real Madrid,2,2,1,1
@@ -271,14 +271,14 @@ Date,Home Team,Away Team,HT Goals,AT Goals,HT Points,AT Points
 08/03/2024,Barcelona,Mallorca,1,0,3,0
 09/03/2024,Valencia,Getafe,1,0,3,0
 09/03/2024,Cadiz,Atl. Madrid,2,0,3,0
-09/03/2024,Granada,Sociedad,2,3,0,3
+09/03/2024,Granada,Real Sociedad,2,3,0,3
 09/03/2024,Girona,Osasuna,2,0,3,0
 10/03/2024,Alaves,Vallecano,1,0,3,0
 10/03/2024,Las Palmas,Ath. Bilbao,0,2,0,3
 10/03/2024,Real Madrid,Celta,4,0,3,0
 10/03/2024,Betis,Villarreal,2,3,0,3
 11/03/2024,Almeria,Sevilla,2,2,1,1
-15/03/2024,Sociedad,Cadiz,2,0,3,0
+15/03/2024,Real Sociedad,Cadiz,2,0,3,0
 16/03/2024,Mallorca,Granada,1,0,3,0
 16/03/2024,Osasuna,Real Madrid,2,4,0,3
 16/03/2024,Getafe,Girona,1,0,3,0
@@ -295,7 +295,7 @@ Date,Home Team,Away Team,HT Goals,AT Goals,HT Points,AT Points
 30/03/2024,Barcelona,Las Palmas,1,0,3,0
 31/03/2024,Celta,Vallecano,0,0,1,1
 31/03/2024,Girona,Betis,3,2,3,0
-31/03/2024,Alaves,Sociedad,0,1,0,3
+31/03/2024,Alaves,Real Sociedad,0,1,0,3
 31/03/2024,Real Madrid,Ath. Bilbao,2,0,3,0
 01/04/2024,Villarreal,Atl. Madrid,1,2,0,3
 04/04/2024,Granada,Valencia,0,1,0,3
@@ -307,19 +307,19 @@ Date,Home Team,Away Team,HT Goals,AT Goals,HT Points,AT Points
 14/04/2024,Las Palmas,Sevilla,0,2,0,3
 14/04/2024,Granada,Alaves,2,0,3,0
 14/04/2024,Ath. Bilbao,Villarreal,1,1,1,1
-14/04/2024,Sociedad,Almeria,2,2,1,1
+14/04/2024,Real Sociedad,Almeria,2,2,1,1
 15/04/2024,Osasuna,Valencia,0,1,0,3
 19/04/2024,Ath. Bilbao,Granada,1,1,1,1
 20/04/2024,Celta,Las Palmas,4,1,3,0
 20/04/2024,Vallecano,Osasuna,2,1,3,0
 20/04/2024,Valencia,Betis,1,2,0,3
 20/04/2024,Girona,Cadiz,4,1,3,0
-21/04/2024,Getafe,Sociedad,1,1,1,1
+21/04/2024,Getafe,Real Sociedad,1,1,1,1
 21/04/2024,Almeria,Villarreal,1,2,0,3
 21/04/2024,Alaves,Atl. Madrid,2,0,3,0
 21/04/2024,Real Madrid,Barcelona,3,2,3,0
 22/04/2024,Sevilla,Mallorca,2,1,3,0
-26/04/2024,Sociedad,Real Madrid,0,1,0,3
+26/04/2024,Real Sociedad,Real Madrid,0,1,0,3
 27/04/2024,Las Palmas,Girona,0,2,0,3
 27/04/2024,Almeria,Getafe,1,3,0,3
 27/04/2024,Alaves,Celta,3,0,3,0
@@ -330,7 +330,7 @@ Date,Home Team,Away Team,HT Goals,AT Goals,HT Points,AT Points
 28/04/2024,Betis,Sevilla,1,1,1,1
 29/04/2024,Barcelona,Valencia,4,2,3,0
 03/05/2024,Getafe,Ath. Bilbao,0,2,0,3
-04/05/2024,Sociedad,Las Palmas,2,0,3,0
+04/05/2024,Real Sociedad,Las Palmas,2,0,3,0
 04/05/2024,Real Madrid,Cadiz,3,0,3,0
 04/05/2024,Girona,Barcelona,4,2,3,0
 04/05/2024,Mallorca,Atl. Madrid,0,1,0,3
@@ -348,7 +348,7 @@ Date,Home Team,Away Team,HT Goals,AT Goals,HT Points,AT Points
 12/05/2024,Atl. Madrid,Celta,1,0,3,0
 12/05/2024,Valencia,Vallecano,0,0,1,1
 12/05/2024,Betis,Almeria,3,2,3,0
-13/05/2024,Barcelona,Sociedad,2,0,3,0
+13/05/2024,Barcelona,Real Sociedad,2,0,3,0
 14/05/2024,Osasuna,Mallorca,1,1,1,1
 14/05/2024,Real Madrid,Alaves,5,0,3,0
 14/05/2024,Girona,Villarreal,0,1,0,3
@@ -358,12 +358,12 @@ Date,Home Team,Away Team,HT Goals,AT Goals,HT Points,AT Points
 15/05/2024,Getafe,Atl. Madrid,0,3,0,3
 16/05/2024,Las Palmas,Betis,2,2,1,1
 16/05/2024,Almeria,Barcelona,0,2,0,3
-16/05/2024,Sociedad,Valencia,1,0,3,0
+16/05/2024,Real Sociedad,Valencia,1,0,3,0
 18/05/2024,Alaves,Getafe,1,0,3,0
 19/05/2024,Ath. Bilbao,Sevilla,2,0,3,0
 19/05/2024,Atl. Madrid,Osasuna,1,4,0,3
 19/05/2024,Barcelona,Vallecano,3,0,3,0
-19/05/2024,Betis,Sociedad,0,2,0,3
+19/05/2024,Betis,Real Sociedad,0,2,0,3
 19/05/2024,Cadiz,Las Palmas,0,0,1,1
 19/05/2024,Granada,Celta,1,2,0,3
 19/05/2024,Mallorca,Almeria,2,2,1,1
@@ -371,7 +371,7 @@ Date,Home Team,Away Team,HT Goals,AT Goals,HT Points,AT Points
 19/05/2024,Villarreal,Real Madrid,4,4,1,1
 24/05/2024,Girona,Granada,7,0,3,0
 25/05/2024,Osasuna,Villarreal,1,1,1,1
-25/05/2024,Sociedad,Atl. Madrid,0,2,0,3
+25/05/2024,Real Sociedad,Atl. Madrid,0,2,0,3
 25/05/2024,Almeria,Cadiz,6,1,3,0
 25/05/2024,Vallecano,Ath. Bilbao,0,1,0,3
 25/05/2024,Real Madrid,Betis,0,0,1,1
